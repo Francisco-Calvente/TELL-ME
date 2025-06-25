@@ -1,6 +1,6 @@
----
-:uk: **For English, see [README_EN.md](README_EN.md)**
----
+
+> 🇬🇧 English version available in [README_EN.md](README_EN.md)
+
 
 
 
