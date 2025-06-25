@@ -1,3 +1,9 @@
+---
+:uk: **For English, see [README_EN.md](README_EN.md)**
+---
+
+
+
 TELL-ME
 Asistente inteligente de gestión de bases de datos relacionales con IA y lenguaje natural
 
